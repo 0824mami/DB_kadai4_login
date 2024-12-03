@@ -1,0 +1,10 @@
+insert into product values(null, 'バターピーナッツ', 200);
+insert into members values(null, '熊木 和夫', 'kumaki@sample.com', 'BearTree1', '240928');
+insert into members values(null, '鳥居 健二', 'torii@sample.com', 'BirdStay2', '230323');
+insert into members values(null, '鷺沼 美子', 'saginuma@sample.com', 'EgretPond3', '230623');
+insert into members values(null, '鷲尾 史郎', 'washio@sample.com', 'EagleTail4', '230723');
+insert into members values(null, '牛島 大悟', 'ushijima@sample.com', 'CowIsland5', '230923');
+insert into members values(null, '相馬 助六', 'souma@sample.com', 'PhaseHorse6', '231023');
+insert into members values(null, '猿飛 菜々子', 'sarutobi@sample.com', 'MonkeyFly7', '231111');
+insert into members values(null, '犬山 陣八', 'inuyama@sample.com', 'DogMountain8', '240119');
+insert into members values(null, '猪口 一休', 'inokuchi@sample.com', 'BoarMouse9', '240401');
